@@ -36,7 +36,7 @@ const Navbar = ({ coins }) => {
                 <button className="font-bold px-4 py-2 rounded hover:bg-gray-200 transition">About</button>
                 <button className="font-bold px-4 py-2 rounded hover:bg-gray-200 transition">Store</button>
                 <button className="font-bold px-4 py-2 rounded hover:bg-gray-200 transition">Contact</button>
-                <button className="font-bold px-4 py-2 rounded bg-yellow-200 text-yellow-800 cursor-default" disabled>
+                <button className="font-bold px-4 py-2 rounded bg-yellow-200 text-yellow-800 cursor-default max-sm:mx-auto" disabled>
                     Available coins: {coins}
                 </button>
             </div>
