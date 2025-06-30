@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "role": "Batsman",
+        "country": "India",
+        "base_price": 2000000,
+        "image": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
+        "age": 35,
+        "team": "Royal Challengers Bangalore"
+    },
+    {
+        "id": 2,
+        "name": "Joe Root",
+        "role": "Batsman",
+        "country": "England",
+        "base_price": 1800000,
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/386800/386836.6.jpg",
+        "age": 33,
+        "team": "Yorkshire"
+    },
+    {
+        "id": 3,
+        "name": "Kane Williamson",
+        "role": "Batsman",
+        "country": "New Zealand",
+        "base_price": 1700000,
+        "image": "https://www.livemint.com/lm-img/img/2025/02/10/original/Kane_Williamson__1739193929634.jpg",
+        "age": 33,
+        "team": "Sunrisers Hyderabad"
+    },
+    {
+        "id": 4,
+        "name": "Steve Smith",
+        "role": "Batsman",
+        "country": "Australia",
+        "base_price": 1900000,
+        "image": "https://c.ndtvimg.com/2025-01/779p0q78_steve-smith-afp_625x300_29_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "age": 34,
+        "team": "Sydney Sixers"
+    },
+    {
+        "id": 5,
+        "name": "Jasprit Bumrah",
+        "role": "Bowler",
+        "country": "India",
+        "base_price": 1600000,
+        "image": "https://images.hindustantimes.com/img/2024/07/12/1600x900/Jasprit_Bumrah_1720760024160_1720760024601.JPG",
+        "age": 30,
+        "team": "Mumbai Indians"
+    },
+    {
+        "id": 6,
+        "name": "Ben Stokes",
+        "role": "All-rounder",
+        "country": "England",
+        "base_price": 2100000,
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/299200/299220.6.jpg",
+        "age": 32,
+        "team": "Rajasthan Royals"
+    },
+    {
+        "id": 7,
+        "name": "Rashid Khan",
+        "role": "Bowler",
+        "country": "Afghanistan",
+        "base_price": 1500000,
+        "image": "https://i.dawn.com/primary/2024/06/26184210181bb48.jpg",
+        "age": 25,
+        "team": "Gujarat Titans"
+    },
+    {
+        "id": 8,
+        "name": "Quinton de Kock",
+        "role": "Wicketkeeper",
+        "country": "South Africa",
+        "base_price": 1400000,
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/370300/370387.6.jpg",
+        "age": 31,
+        "team": "Lucknow Super Giants"
+    },
+    {
+        "id": 9,
+        "name": "Glenn Maxwell",
+        "role": "All-rounder",
+        "country": "Australia",
+        "base_price": 1750000,
+        "image": "https://revsportz.in/wp-content/uploads/2023/11/Maxwell.jpg",
+        "age": 35,
+        "team": "Royal Challengers Bangalore"
+    }
+]
