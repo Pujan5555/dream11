@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from '../public/logo.png'; // Adjust the path as necessary
 
 const Footer = () => (
     <div className="w-full">
@@ -26,7 +27,7 @@ const Footer = () => (
         <div className="w-full bg-black text-white pt-8 pb-4">
             {/* Logo in the middle */}
             <div className="flex justify-center items-center mb-8">
-                <img src='../public/logo.png' alt="Logo" className="h-[60px] max-w-[90vw]" />
+                <img src={logo} alt="Logo" className="h-[60px] max-w-[90vw]" />
             </div>
             {/* Three columns */}
             <div className="flex justify-center items-start gap-16 flex-wrap w-full box-border footer-columns

@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import { useState } from 'react';
+import logo from '../public/logo.png'; // Adjust the path as necessary
 
 const Navbar = ({ coins }) => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -7,7 +8,7 @@ const Navbar = ({ coins }) => {
     return (
         <div className="flex items-center justify-between bg-gray-100 text-gray-800 py-3 top-0 sticky z-10 backdrop-blur-lg shadow-md px-4 md:px-12 opacity-80">
             {/* Logo on the left */}
-            <img src="/logo.png" alt="cricket" className="h-10 w-auto" />
+            <img src={logo} alt="cricket" className="h-10 w-auto" />
 
             {/* Hamburger toggle button (mobile only) */}
             <button
